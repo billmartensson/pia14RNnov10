@@ -3,7 +3,7 @@
     "name": "pia14RNnov10",
     "slug": "pia14RNnov10",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/images/icon.png",
     "scheme": "pia14rnnov10",
     "userInterfaceStyle": "automatic",
